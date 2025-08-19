@@ -1,46 +1,73 @@
-#  [Matheus Lacerda da Fonseca]
-
-**QA Engineer** • Garantindo qualidade através de testes automatizados e manuais
-
----
-
-## 🧪 Stack de QA
-
-**Automação**  
-`Cypress` `JavaScript` `HTML` `CSS`
-
-**API Testing**  
-`Postman` `REST APIs`
-
-**Ferramentas**  
-`Git` `VS Code` `Chrome DevTools`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&langs_count=8&theme=vue-dark&hide_border=true"/>
-</p>
-
----
-
-## 🔍 O que faço com QA
-
-• **Testes E2E** com Cypress  
-• **Testes de API** com Postman  
-• **Testes Manuais** funcional e de usabilidade  
-• **Bug Reports** detalhados  
-
----
-
 <div align="center">
 
-**📫 Contato**
+#  Matheus Lacerda da Fonseca
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-lacerda-fonseca/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malacerda2409@gmail.com)
+*"Testando hoje, para que os usuários não sofram amanhã."*
+
+**QA Engineer** | **Automação de Testes** | **Testes de API**
+
+---
+
+###  Arsenal de Ferramentas 
+
+<table>
+<tr>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="150">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
+<br><strong>Cypress</strong>
+</td>
+<td align="center" width="150">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
+<br><strong>Postman</strong>
+</td>
+<td align="center" width="150">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+<br><strong>Git</strong>
+</td>
+</tr>
+</table>
+
+---
+
+### 🎯 Especialidades
+
+```javascript
+const habilidadesQA = {
+  automacao: ["Testes E2E", "Testes de UI", "Testes de Regressão"],
+  manual: ["Testes Funcionais", "Testes de Usabilidade", "Testes Exploratórios"],
+  api: ["Testes de API REST", "Testes de Integração"],
+  ferramentas: ["Cypress", "Postman"],
+  Conhecimentos: ["Processo Scrum", "Inglês Fluente"]
+}
+```
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fonseca-QA&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Fonseca-QA&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+---
+
+###  Foco Atual
+
+> 🔹 Construindo frameworks de automação  
+> 🔹 Dominando estratégias de testes de API  
+> 🔹 Explorando integração CI/CD  
+
+---
+
+### 📬 Vamos nos Conectar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/matheus-lacerda-fonseca/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:malacerda2409@gmail.com)
+
+<br>
 
 </div>
-<!--
